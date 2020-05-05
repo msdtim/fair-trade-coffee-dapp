@@ -11,7 +11,7 @@ node v12.16.1
 
 web3 v1.2.1
 
-### Steps to interact with contract
+## Steps to interact with contract
 `npm i`
 
 `npm run dev`
